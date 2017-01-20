@@ -5,7 +5,7 @@
 
 This is a boilerplate repo for the Front-End interview test Please fork this repository and commit the result to a repository of your self
 
-<h4><b><i>In this repo you will find:</i></b></h4>
+<h4><b><i>In this repo</i></b></h4>
 
 <ul>
     <li>Designs of 2 e-commerce pages</li>
@@ -26,6 +26,7 @@ This is a boilerplate repo for the Front-End interview test Please fork this rep
   <li>All CSS files are compiled and minified into a single bundle</li>
 </ul>
 
+<hr>
 
 <h4><b><i>Bonus</i></b></h4>
 <ul>
