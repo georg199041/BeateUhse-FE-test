@@ -33,10 +33,11 @@ In this repo you will find:
   <dt>Bonus</dt>
   <ul>
       <li>All filters work</li>
+      <li>Make use of a (Node) REST API to fetch the JSON data</li>
+      <li>Write tests for the JS code</li>
       <li>Code checking is applied to build pipeline</li>
       <li>Extensive use of ES6/Typescript</li>
       <li>Build with a modern framework (React, Angular2, Backbone etc) or setup with a modern Vanilla JS structure (classes/prototypes, (web)components etc)</li>
- 
   </ul>
 </dl>
 
