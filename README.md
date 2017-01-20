@@ -1,16 +1,16 @@
-![Logo](img/logo/beate-uhse.png?raw=true "Logo")
+![Logo](img/logo/beate-uhsepng?raw=true "Logo")
 
 
-##Frontend test for Beate Uhse
+##Frontend test for Beate Uhse (Medior/Senior)
 
-This is a boilerplate repo for the Front-End interview test. Please fork this repository and commit the result to a repository of your self.
+This is a boilerplate repo for the Front-End interview test Please fork this repository and commit the result to a repository of your self
 
 In this repo you will find:
 
 <ul>
     <li>Designs of 2 e-commerce pages</li>
     <li>Fake JSON data</li>
-    <li>Index.html to start with (but not required to use)</li>
+    <li>Indexhtml to start with (but not required to use)</li>
 </ul>
 
 
@@ -19,12 +19,12 @@ In this repo you will find:
 <dl>
   <dt>To do</dt>
   <ul>
-      <li>Replicate the 2 pages as found in the <i>./designs</i> folder.</li>
+      <li>Replicate the 2 pages as found in the <i>./designs</i> folder</li>
       <li>The Javascript app structure has to be a SPA
-      <li>Make use of fake JSON data as found in the <i>./data</i> folder.</li>
-      <li>At least 2 filter types should work.</li> 
-      <li>Make use of a css-preprocessor (less/sass).</li> 
-      <li>All JS files are compiled and minified into a single bundle.</li> 
+      <li>Make use of fake JSON data as found in the <i>./data</i> folder</li>
+      <li>At least 2 filter types should work</li> 
+      <li>Make use of a css-preprocessor (less/sass)</li> 
+      <li>All JS files are compiled and minified into a single bundle</li> 
       <li>All CSS files are compiled and minified into a single bundle</li>
   </ul>
 </dl>
