@@ -3,7 +3,7 @@
 
 ##Frontend test for Beate Uhse (Medior/Senior)
 
-This is a boilerplate repo for the Front-End interview test Please fork this repository and commit the result to a repository of your self
+This is a boilerplate repo for the Front-End interview test. Please fork this repository and commit the result to a repository of your own.
 
 <h4><b><i>In this repo</i></b></h4>
 
