@@ -24,6 +24,7 @@ This is a boilerplate repo for the Front-End interview test. Please fork this re
   <li>Make use of a css-preprocessor (less/sass)</li> 
   <li>All JS files are compiled and minified into a single bundle using a TaskRunner</li> 
   <li>All CSS files are compiled and minified into a single bundle a TaskRunner</li>
+  <li>Build with a modern framework (React, Angular2, Backbone etc) or setup with a modern Vanilla JS structure (classes/prototypes, (web)components etc)</li>
 </ul>
 
 <hr>
