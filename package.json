@@ -1,0 +1,22 @@
+{
+  "name": "beateuhse-fe-test",
+  "version": "0.0.1",
+  "description": "Front-End test for Beate Uhse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DutchKevv/BeateUhse-FE-test.git"
+  },
+  "author": "H.K.Brandsma (Frontend-Freelance)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DutchKevv/BeateUhse-FE-test/issues"
+  },
+  "homepage": "https://github.com/DutchKevv/BeateUhse-FE-test#readme",
+  "dependencies": {
+    "Faker": "git://github.com/Marak/faker.js.git#7e96b93"
+  }
+}
