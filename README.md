@@ -52,4 +52,4 @@ This is a boilerplate repo for the Front-End interview test. Please fork this re
 ![Logo](img/design/web-mockup-filter-page.png?raw=true "Filter")
 
 ##Design2 (detail page)
-![Logo](img/design/web-mockup-filter-page.png?raw=true "Detail")
+![Logo](img/design/web-mockup-product-page.png?raw=true "Detail")
