@@ -36,7 +36,6 @@ This is a boilerplate repo for the Front-End interview test. Please fork this re
   <li>Write tests for the JS code</li>
   <li>Code checking is applied to build pipeline</li>
   <li>Extensive use of ES6/Typescript</li>
-  <li>Build with a modern framework (React, Angular2, Backbone etc) or setup with a modern Vanilla JS structure (classes/prototypes, (web)components etc)</li>
 </ul>
 
 <h4><b><i>Hints</i></b></h4>
