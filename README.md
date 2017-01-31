@@ -43,7 +43,7 @@ This is a boilerplate repo for the Front-End interview test. Please fork this re
   <li>Make use of fake products JSON data as found in the <i>./data</i> folder</li>
   <li>To fill up the page/details you can set static data about the product, as long as some of the JSON is at least used</li>
   <li>We know craftsmenship with CSS and pixel perfect styling is a master class on its own, but at Beate Uhse we love you even more when <i><b>structure</b></i> makes your bells ring :) So don't focus to much on the styling and the design, makes sure your code and build process is rock solid and serves a clear purpose. Javascript is your main focus. Write the code as of something you would be proud off. </li>
-  <li>Use comments to explain the underlying thinking process, better to much than to little</li>
+  <li>Use comments to explain the underlying thinking process, better too much than too little</li>
   <li>A handy package called Faker.js is set as npm dependency.. If you feel like your structure can handle more, feel free to generate more data and include it in to your mini-app</li>
 </ul>
 
