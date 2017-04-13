@@ -15,14 +15,17 @@ module.exports = {
 
         let total = 100,
             products = [],
-            writePath = path.join(__dirname, '..', 'data', 'products.json');
+            writePath = path.join(__dirname, '..', 'api-server', 'handlers', 'products.json');
 
         while (total--) {
             products.push({
                 price: faker.commerce.price(),
                 product: faker.commerce.product(),
                 brand: faker.company.companyName(),
-                color: faker.commerce.color()
+                color: faker.commerce.color(),
+                id: total,
+                // math random 50% chance
+                isRecommended: !!Math.floor(Math.random()*2)
             });
         }
 
